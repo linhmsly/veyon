@@ -81,6 +81,7 @@ As root you can run
 	            xorg-dev libxtst-dev libjpeg-dev zlib1g-dev libssl-dev libpam0g-dev \
 	            libprocps-dev liblzo2-dev libqca-qt5-2-dev libldap2-dev \
 	            libsasl2-dev
+	apt install libkf5*-dev kirigami2-dev
 
 
 
